@@ -1,0 +1,1 @@
+This is project`s purpose is just a demo how to use Git
