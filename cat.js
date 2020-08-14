@@ -1,4 +1,8 @@
 var Cat = () => {
     return "Ceasar";
 }
-Cat();
+Cat.prototype.eat = (mouse) => {
+    this.stomach.push(mouse);
+}
+
+module.exports = Cat;
