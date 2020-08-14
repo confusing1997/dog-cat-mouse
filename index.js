@@ -1,4 +1,5 @@
 var Cat = require('./Cat');
 
 var Cat = new Cat('Tom');
-Cat.sayHi();
+
+var Tom = new Cat();
